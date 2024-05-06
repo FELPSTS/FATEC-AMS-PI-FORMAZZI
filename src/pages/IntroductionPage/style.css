@@ -1,0 +1,25 @@
+  
+  /*TELA DE CELULAR*/
+  @media (max-width: 800px) {
+    .logo.homebar {
+      width: 7rem;
+      height: auto;
+    }
+  
+    #registerBtn {
+      width: 50% !important;
+      min-width: fit-content;
+    }
+  }
+
+  html {
+    background-color: rgb(240, 0, 0);
+  }
+
+  .IntroductionPage{
+    height: 100px;
+    width: 100px;
+    background-color: black;
+    color: black;
+  }
+  
